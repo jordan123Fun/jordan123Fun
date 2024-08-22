@@ -1,3 +1,3 @@
-Hi my name is jordan
+# Hi, my name is Jordan
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan123Fun&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan123Fun&show_icons=true&theme=transparent)
